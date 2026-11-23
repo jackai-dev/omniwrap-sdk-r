@@ -1,0 +1,9 @@
+Package: OmniWrapR
+Title: OmniWrap Generated R SDK for OmniWrap
+Version: 1.0.0
+Description: Generated R client for OmniWrap (1.0.0). Contract sha256:2289bcb0d661bdea6dd47c7967f37aace7d3a152e18e7d2f64c08514fb73e795.
+License: MIT
+Encoding: UTF-8
+Depends: R (>= 4.1.0)
+Imports: curl, jsonlite, stats
+Authors@R: person("OmniWrap", "generator", role = c("aut", "cre"), email = "maintainer@example.org", comment = "Generated client: replace with your own maintainer before publishing")

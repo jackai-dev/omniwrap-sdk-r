@@ -1,0 +1,66 @@
+{
+  "artifact_type": "r-sdk",
+  "package_manifest": "DESCRIPTION",
+  "package_name": "OmniWrapR",
+  "package_version": "1.0.0",
+  "runtime_floor": "R (>= 4.1.0)",
+  "source_files": [
+    {
+      "path": ".omniwrap-skill-manifest.json",
+      "sha256": "20530110c201320fa16079aaed304bf858f5da33428f2ee758823d086630a204",
+      "size_bytes": 347
+    },
+    {
+      "path": "agent-session.json",
+      "sha256": "0310955bae0dc6834c8a153b8a2247b896a56832ef3cb9c16d05d9646f097957",
+      "size_bytes": 158797
+    },
+    {
+      "path": "AGENT_SESSION.md",
+      "sha256": "2631dd724dd7d5475f0542548b836728069228901679bb32888f3be1484f05bd",
+      "size_bytes": 696
+    },
+    {
+      "path": "api.md",
+      "sha256": "378e315cfa36aab2b546fd35e265991b2c2df7e0591b4bdd78d69bb1d14312b7",
+      "size_bytes": 63096
+    },
+    {
+      "path": "DESCRIPTION",
+      "sha256": "5af83469a29d25383634bcae37e61ce0184007866ae6a57dfd5a3bf432e56ce7",
+      "size_bytes": 480
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "fb11dfcf40507855f2fbe0fdcee036cfe549b3ef7e52ebeb09e0dd66d552a128",
+      "size_bytes": 282
+    },
+    {
+      "path": "NAMESPACE",
+      "sha256": "97fbd170b51147551fbeb305f708a020c5d6128cbf5091b7c91f24a6f60df01c",
+      "size_bytes": 772
+    },
+    {
+      "path": "R/agent_session.R",
+      "sha256": "39d80e0eb1865f2f9cd1da6a7f3e02ba0dd7d477611bf0325a10fb0a58d2a5d5",
+      "size_bytes": 1397
+    },
+    {
+      "path": "R/client.R",
+      "sha256": "a7c9933dacf8adbc53d414061f723a3d5ca9ed4a3e54ed8de14201bfd870be91",
+      "size_bytes": 20341
+    },
+    {
+      "path": "README.md",
+      "sha256": "198367ca9bfff9f416214a49bf51ce6a04936d07d7f7d6bb94056c9cecd6eb80",
+      "size_bytes": 779
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "b1d7241eb4e137b22a0b90c54a1fa02079a373982ac3234cf22f169ed8849c1a",
+      "size_bytes": 8847
+    }
+  ],
+  "source_version": "1.0.0",
+  "target": "r"
+}
